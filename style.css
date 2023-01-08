@@ -1,0 +1,35 @@
+body,
+.recipe-link {
+  color: #757575;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0 32px;
+  font-size: 24px;
+}
+
+.title {
+  color: hsl(0, 0%, 33%);
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+#page-title {
+  font-size: 48px;
+  text-align: center;
+  padding: 24px 12px;
+  margin-top: 0;
+}
+
+.subtitle,
+.recipe-link {
+  font-size: 32px;
+}
+
+.recipe-link {
+  text-decoration: none;
+}
