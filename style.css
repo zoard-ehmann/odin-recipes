@@ -25,6 +25,11 @@ img {
   margin-top: 0;
 }
 
+ul.recipes {
+  list-style-type: none;
+  text-align: center;
+}
+
 .subtitle,
 .recipe-link {
   font-size: 32px;
