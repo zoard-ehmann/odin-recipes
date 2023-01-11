@@ -21,6 +21,6 @@ Later on the project will be revisited and styled with CSS.
 - Images
 - Links
 
-## Project status
+### CSS
 
-Basic HTML structure is under development.
+- Basic CSS properties
