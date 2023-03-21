@@ -11,7 +11,7 @@ This is a basic recipe website that contains a general index page and some recip
 ## Visuals
 
 **Home**
-![](screenshots/home.png)
+![Home](screenshots/home.png)
 
 **Recipe**
-![](screenshots/recipe.png)
+![Recipe](screenshots/recipe.png)
