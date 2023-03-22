@@ -10,10 +10,10 @@ This is a basic recipe website that contains a general index page and some recip
 
 ## Visuals
 
-**Home**
+### Home
 
 ![Home](screenshots/home.png)
 
-**Recipe**
+### Recipe
 
 ![Recipe](screenshots/recipe.png)
